@@ -1,0 +1,8 @@
+ul.toolbar{
+    position:relative;
+}
+
+li.tool-item{
+    display: inline;
+    margin: 3px;
+}
